@@ -6,6 +6,8 @@ public class Mytest {
     public static void main(String[] args) {
         System.out.println("lallala");
         System.out.println("lzj");
-      
+        System.out.println("????");
+        System.out.println("!!!!");
+			
     }
 }
