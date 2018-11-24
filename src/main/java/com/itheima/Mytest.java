@@ -7,5 +7,6 @@ public class Mytest {
         System.out.println("lallala");
         System.out.println("lzj");
         System.out.println("可以了吧");
+        System.out.println("    ");
     }
 }
